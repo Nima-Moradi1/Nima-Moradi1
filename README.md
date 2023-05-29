@@ -1,7 +1,7 @@
 
- Hi , I'm Nima . 
+ Hello there , I'm Nima . 🥰 🥰 
 <br/>
-I'm currently working on an E-commerce Website built on React.js <br>I'm looking for help in My Project esp. developing the server side <br>I'm currently Learning Javascript ES6 , React.Js , Sass , And Bootstrap<br><br>You can ask me about anything , i'm open to Criticism and Ideas ! <br><br>fun fact : <br>I have no idea what i'm doing !! LOL ...
+I'm currently working on an E-commerce Website built on  💥 React.js 💥  <br>I'm looking for help in My Project , Cuz it's always nice to Have a teamMate , isn't it ?!! 😶  <br>I'm currently Learning Javascript ES6 , React.Js , Sass , And Bootstrap 🥰<br><br>You can ask me about anything , i'm open to Criticism and Ideas !🥰 <br><br>FUN Fact : <br>I have NO idea what i'm doing !! LOL 😁 😁
 
 
 # 💻 Tech Stack:
