@@ -4,7 +4,7 @@
 ###
 <br/>
 <br/>
-<h2 align="center">My Tech Stack</h2>
+<h1 align="center">My Tech Stack</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="20" />
@@ -32,7 +32,7 @@
 ###
 <br/>
 <br/>
-<h2 align="center">Contact Me</h2>
+<h1 align="center">Contact Me</h1>
 <div align="center">
   <a href="instagram.com/m.nima80" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
