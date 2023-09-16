@@ -47,7 +47,7 @@
 ###
 ###
 <div align="center">
-### ✍️  A Wise Man Once Said : 
+ ✍️  A Wise Man Once Said : <br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
